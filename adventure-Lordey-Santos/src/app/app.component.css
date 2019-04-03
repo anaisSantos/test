@@ -1,0 +1,29 @@
+.image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+
+}
+
+#worldname{
+
+    font-family: 'Raleway',sans-serif;
+    font-size: 20px; 
+    font-weight: normal; 
+    line-height: 48px; 
+    margin: 0;
+}
+
+.general{
+    background-color: whitesmoke;
+}
+
+#produit{
+    margin: auto;
+}
+
+
+.images_manager {
+    width: 110px;
+    border-radius: 10%
+}
